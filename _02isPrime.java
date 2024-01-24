@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _01isPrime {
+public class _02isPrime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : "); // Promt to take input
