@@ -15,7 +15,7 @@ public class _03Fibbonaci {
             a=sum;
             sum+=temp;
         }
-        System.out.println(sum);
+        System.out.println(sum); // final number.
 
     }
 }
