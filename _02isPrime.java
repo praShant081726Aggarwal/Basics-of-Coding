@@ -5,6 +5,7 @@ public class _02isPrime {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : "); // Promt to take input
         int n = sc.nextInt(); // to take input
+        sc.close();
         if (n < 2) {
             System.out.println("Not Prime"); // smallest prime number is 2, so num less than 2 can't be prime
         }else{

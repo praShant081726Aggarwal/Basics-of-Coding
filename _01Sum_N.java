@@ -4,7 +4,6 @@ import java.util.Scanner;
 public class _01Sum_N {
 
     public static void main(String[] args) {
-        System.out.println("Hello Praashant");
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter a number : "); // to prompt user to enter a number
         int n = sc.nextInt(); // to take input 
